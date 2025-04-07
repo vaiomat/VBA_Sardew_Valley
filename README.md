@@ -36,7 +36,7 @@ Zajmowałem się głównie **kodowaniem w VBA**, które było niezbędne do prze
 ## 🇬🇧 Project: Stardew Valley Profit Analysis (Excel + VBA)
 
 This is a fan-made Excel tool inspired by **Stardew Valley**, created as a 2-person group project.  
-It helps analyze the profitability of different in-game activities like **planting crops** and **fishing** using Excel and VBA based on the current season, skill level, or budget.
+It helps analyze the profitability of different in-game activities like **planting crops** and **fishing** based on the current season, skill level, or budget using Excel and VBA.
 
 ---
 
